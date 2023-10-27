@@ -1,6 +1,6 @@
 # 3D Physics Car Controller
 
-A physics-based 3D vehicle controller, ideal for casual games. Use TAB key to switch cars.
+A physics-based 3D vehicle controller, ideal for casual games. Use TAB key to switch between cars.
 
 [Test build](https://limeraiin.github.io/Physics-Car-Controller-Unity3D/)
 
