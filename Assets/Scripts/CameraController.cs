@@ -22,13 +22,10 @@ public class CameraController : MonoBehaviour
 	private Transform _currentTarget;
 
 
-	private void Awake()
-	{
-		AddListeners();
-	}
 
 	private void Start()
 	{
+		AddListeners();
 		_mainCamera = Camera.main;
 		Cursor.lockState = CursorLockMode.Locked;
 		Cursor.visible = false;
