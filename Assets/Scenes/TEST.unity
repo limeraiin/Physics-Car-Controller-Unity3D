@@ -1035,6 +1035,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: 5396215829357799476, guid: 710ce9d0428e6774987650036a2bdde3, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: ec4964804650e784c9d869166c21fc3e, type: 3}
     - target: {fileID: 7378118435422822053, guid: 710ce9d0428e6774987650036a2bdde3, type: 3}
       propertyPath: m_Name
       value: Car 1
@@ -1056,6 +1060,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Car 3
       objectReference: {fileID: 0}
+    - target: {fileID: 652301914955158765, guid: 9d217cc4ad8fe634ca08bfb3ec4e3f1f, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: ec4964804650e784c9d869166c21fc3e, type: 3}
     - target: {fileID: 9043441754544935452, guid: 9d217cc4ad8fe634ca08bfb3ec4e3f1f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -1153,6 +1161,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Car 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7746363829820750848, guid: b8da244362600994397f8b37174b93ff, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: ec4964804650e784c9d869166c21fc3e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
