@@ -1,5 +1,4 @@
-# PhysicsCarController
-A physics-based vehicle controller.
+# 3D Physics Car Controller
 
 A physics-based 3D vehicle controller, ideal for casual games.
 
